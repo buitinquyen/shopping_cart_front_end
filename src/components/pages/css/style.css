@@ -143,7 +143,7 @@ hr{
 			.header-links li a:focus, 
 			.header-links li.active a{
 				background:none;
-				color:#72d279;
+				color:#6495ed;
 			}
 			
 /* Currency & Languages Drop Down Styles Starts */
@@ -154,7 +154,7 @@ hr{
 		margin:4px 0 0 0;
 	}
 	.header-top .open .btn-link{
-		color:#72d279;
+		color:#6495ed;
 	}
 		.header-top .btn-link i.fa{
 			margin-left:5px;
